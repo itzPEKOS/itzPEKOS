@@ -15,7 +15,7 @@ I'm studying **_Computer Engineering and Digital Technology at Chulalongkorn Uni
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,vue,unity)](https://skillicons.dev)
 
 ![GitHubstat](https://github-readme-stats.vercel.app/api?username=itzPEKOS&show_icons=true&theme=codeSTACKr)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzPEKOS&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzPEKOS&layout=compact)
 
 --------
 <a href="https://www.facebook.com/pai.phonlakrit/">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a> <a href="https://www.instagram.com/pplk_pai/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
