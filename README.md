@@ -1,3 +1,5 @@
+![img]("https://cdn.discordapp.com/attachments/1257223209313636383/1257224348121436252/GudakoWithGun.png?ex=66c8d7aa&is=66c7862a&hm=4aa2b340934604ea922267beae5dd5f3156edd1b7352b576333124e9ec57c792&")
+
 # Hello, I'm PAI
 
 <!--
