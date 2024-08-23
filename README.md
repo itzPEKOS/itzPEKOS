@@ -1,18 +1,22 @@
-![img]("https://cdn.discordapp.com/attachments/1257223209313636383/1257224348121436252/GudakoWithGun.png?ex=66c8d7aa&is=66c7862a&hm=4aa2b340934604ea922267beae5dd5f3156edd1b7352b576333124e9ec57c792&")
+<h1 align="center", style="color: #F7681B">Hello, Welcome to My Profile</h1>
 
-# Hello, I'm PAI
+<center><img src="https://cdn.discordapp.com/attachments/1257223209313636383/1257224348121436252/GudakoWithGun.png?ex=66c8d7aa&is=66c7862a&hm=4aa2b340934604ea922267beae5dd5f3156edd1b7352b576333124e9ec57c792&" style="border-radius: 50%; width: 50%;, margin: 0 auto">
 
-<!--
-**itzPEKOS/itzPEKOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">About Me</h1>
 
-Here are some ideas to get you started:
+I'm **Phonlakrit Chaengtamtham**, but you can call me **Pai**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm studying **_Computer Engineering and Digital Technology at Chulalongkorn University_**
+
+![forthebadge](https://github.com/CEDT-Chula/For-The-Cedt-Badge/blob/main/badges/chula-engineer.svg?raw=true) ![forthebadge](https://raw.githubusercontent.com/CEDT-Chula/For-The-Cedt-Badge/9158fba08249df3322bb7e08b5b41ab7633fc62a/badges/cedt-engineer.svg)
+ 
+--------
+# My Skill
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,vue,unity)](https://skillicons.dev)
+
+![GitHubstat](https://github-readme-stats.vercel.app/api?username=itzPEKOS&show_icons=true&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzPEKOS&layout=donut-vertical)
+
+--------
+<a href="https://www.facebook.com/pai.phonlakrit/">![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)</a> <a href="https://www.instagram.com/pplk_pai/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+</center>
