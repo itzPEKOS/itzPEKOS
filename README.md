@@ -1,6 +1,6 @@
 <h1 align="center", style="color: #F7681B">Hello, Welcome to My Profile</h1>
 
-<img src="https://cdn.discordapp.com/attachments/1257223209313636383/1257224348121436252/GudakoWithGun.png?ex=66c8d7aa&is=66c7862a&hm=4aa2b340934604ea922267beae5dd5f3156edd1b7352b576333124e9ec57c792&" style="border-radius: 50%; width: 50%;, margin: 0 auto">
+<img src="https://github.com/itzPEKOS/itzPEKOS/blob/main/image/GudakoWithGun.jpg?raw=true" style="border-radius: 50%; width: 50%;, margin: 0 auto">
 
 <h1 align="center">About Me</h1>
 
